@@ -1,0 +1,30 @@
+.head{
+    width:100%;
+    text-align: left;
+} 
+.head h3{
+    display: inline;
+}
+.head button{
+    float: right;
+    border: 2px solid black;
+}
+.big_image{
+    width: 100%;
+}
+#starter, #status{
+    font-size:22px;
+}
+h4{
+    width: 100%;
+    background-color: peachpuff;
+    line-height: 100%;
+    margin: 0px;
+}
+.modal-dialog{
+    width: 90%;
+}
+.picture{
+    display: inline-block;
+    width: 45%;
+}
